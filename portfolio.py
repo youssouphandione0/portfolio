@@ -71,7 +71,7 @@ with right_col:
 
     st.header("🎓 Formation")
     st.write("**geomatique formation**")
-    st.caption("université virtuel du sénégal | 2026")import streamlit as st
+    
 import pandas as pd
 import numpy as np
 import plotly.express as px
